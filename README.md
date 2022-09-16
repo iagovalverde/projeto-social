@@ -1,4 +1,4 @@
-# Projeto  - Curso em Vídeo
+# Projeto Redes Sociais - Curso em Vídeo
 
 ![preview](./imagens/preview.png)
 
